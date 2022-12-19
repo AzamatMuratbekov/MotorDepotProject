@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "truck": "Renault",
+    "driver": {
+      "id": 0
+    },
+    "status": "BASE"
+  },
+  {
+    "id": 2,
+    "truck": "Volvo  ",
+    "driver": {
+      "id": 0
+    },
+    "status": "BASE"
+  },
+  {
+    "id": 3,
+    "truck": "DAF XT ",
+    "driver": {
+      "id": 0
+    },
+    "status": "BASE"
+  }
+]
